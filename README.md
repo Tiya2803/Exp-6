@@ -1,8 +1,8 @@
-Experiment-6
-Aim
+# Experiment-6
+# Aim
 The aim of this C++ code is to demonstrate the use of various looping constructs and nested loops.
 
-Theory
+# Theory
 We would be discussing about various Looping Constructs
 
 do-while Loop: Executes the code block once, then repeats as long as the condition remains true.
@@ -21,7 +21,7 @@ Nested for Loops (Matrix): A pair of for loops used to iterate over rows and col
 
 Nested for + while Loops (Matrix with Condition): A for loop with an inner while loop to process matrix elements conditionally.
 
-Code
+# Code
 
 #include <iostream>
 using namespace std; 
@@ -189,8 +189,8 @@ int main()
    return 0;
 }
 
-Output
-exp6_1 exp6_2 exp6_3
+# Output
 
-Conclusion
+
+# Conclusion
 We learnt about loops and their use case.
