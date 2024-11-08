@@ -182,6 +182,19 @@ int main()
 
 ```
 
+# Output: 
+
+![image](https://github.com/user-attachments/assets/e82d425b-b84c-4c7c-8b31-9ebc0913a8ce)
+<br>
+![image](https://github.com/user-attachments/assets/99b7b82a-bebb-418f-bc63-eff03547d188)
+<br>
+![image](https://github.com/user-attachments/assets/07822fe7-4f83-4ad8-a945-8597502f620f)
+<br>
+![image](https://github.com/user-attachments/assets/06dcfa72-ba6e-487e-9ffc-b7efbbc54360)
+
+
+
+
 # Conclusion: <br>
 &#8594; We learnt about loops and their use case. <br>
 &#8594; We learnt about nested loops and using one loop in the other. <br>
